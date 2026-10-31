@@ -3,10 +3,7 @@
   &nbsp;|&nbsp;
   <a href="https://github.com/gruzdevmikhail#english-version">English</a>
 </p>
-
-<a name="russian-version"></a>
-<br>
-# Архитектор ИИ-систем и специалист по агентной инженерии (AI Systems Architecture & Agentic Engineering)
+# <br><br> Архитектор ИИ-систем и специалист по агентной инженерии (AI Systems Architecture & Agentic Engineering)
 
 **Архитектура ИИ-систем (AI Systems Architecture), оркестрация рабочих процессов (Workflow Orchestration) и непрерывность проектов (Project Continuity) / Агентная инженерия (Agentic Engineering) и управляемый вайб-кодинг (Governed Vibe Coding): ИИ-ассистированная разработка программного обеспечения (AI-Assisted Software Development) под контролем человека (Human Oversight).**
 
@@ -44,9 +41,7 @@
 
 ---
 
-<a name="english-version"></a>
-<br>
-# AI Systems Architect / Agentic Engineering Specialist
+# <br><br> AI Systems Architect / Agentic Engineering Specialist
 
 **AI Systems Architecture, Workflow Orchestration & Project Continuity / Agentic Engineering & Governed Vibe Coding (AI-Assisted Software Development, Human Oversight)**
 
