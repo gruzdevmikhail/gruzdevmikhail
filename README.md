@@ -1,7 +1,7 @@
 <p align="left">
-  <a href="#russian-version">Русский</a>
+  <a href="https://github.com/gruzdevmikhail#russian-version">Русский</a>
   &nbsp;|&nbsp;
-  <a href="#english-version">English</a>
+  <a href="https://github.com/gruzdevmikhail#english-version">English</a>
 </p>
 
 <a name="russian-version"></a>
