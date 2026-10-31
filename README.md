@@ -1,4 +1,4 @@
-# README GitHub
+# README
 
 (english)
 # AI Systems Architect / Agentic Engineering Specialist
