@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <a href="#russian-version">Русский</a>
   &nbsp;|&nbsp;
   <a href="#english-version">English</a>
@@ -45,7 +45,7 @@
 ---
 
 <a name="english-version"></a>
-
+<br>
 # AI Systems Architect / Agentic Engineering Specialist
 
 **AI Systems Architecture, Workflow Orchestration & Project Continuity / Agentic Engineering & Governed Vibe Coding (AI-Assisted Software Development, Human Oversight)**
