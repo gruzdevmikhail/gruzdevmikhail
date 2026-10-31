@@ -1,30 +1,13 @@
-(english)
-# AI Systems Architect / Agentic Engineering Specialist
+```html
+<p align="center">
+  <a href="#russian-version">🇷🇺 Русский</a>
+  &nbsp;|&nbsp;
+  <a href="#english-version">🇬🇧 English</a>
+</p>
+```
 
-**AI Systems Architecture, Workflow Orchestration & Project Continuity / Agentic Engineering & Governed Vibe Coding (AI-Assisted Software Development, Human Oversight)**
+<a name="russian-version"></a>
 
-## About Me
-
-I design and develop an integrated engineering system for organizing AI-assisted project development throughout the project lifecycle.
-
-My approach combines requirements engineering, task decomposition, AI agent orchestration, context and knowledge management, project state continuity, decision traceability, change management, verification, and human oversight.
-
-The goal is to turn AI-assisted development from a sequence of isolated interactions into a structured, extensible, and verifiable engineering process that can support increasingly complex tasks while preserving project context, architectural consistency, and human control.
-
-## Evolution of My Engineering Approach
-
-My engineering approach has evolved through practical work on multiple projects, using earlier versions of my harness protocol and related engineering mechanisms. I am now consolidating these components into an integrated system for structured, continuous, and human-governed AI-assisted development.
-
-## Engineering Specialization
-
-AI Systems Architecture · Workflow Orchestration · Project State Management · Project Continuity · Requirements Engineering · Context Engineering · Knowledge Management · Requirements Traceability · Decision Traceability · Agentic Engineering · Multi-Agent Systems · AI Governance · AI-Assisted Software Development · Governed Vibe Coding · Human Oversight
-
-## Additional Specialization
-
-Visual Communications · Graphic Design · Branding
-
----
-(russian)
 # Архитектор ИИ-систем и специалист по агентной инженерии (AI Systems Architecture & Agentic Engineering)
 
 **Архитектура ИИ-систем (AI Systems Architecture), оркестрация рабочих процессов (Workflow Orchestration) и непрерывность проектов (Project Continuity) / Агентная инженерия (Agentic Engineering) и управляемый вайб-кодинг (Governed Vibe Coding): ИИ-ассистированная разработка программного обеспечения (AI-Assisted Software Development) под контролем человека (Human Oversight).**
@@ -60,3 +43,31 @@ Visual Communications · Graphic Design · Branding
 ## Дополнительная специализация
 
 Визуальные коммуникации (Visual Communications) · Графический дизайн (Graphic Design) · Брендинг (Branding).
+
+---
+
+<a name="english-version"></a>
+
+# AI Systems Architect / Agentic Engineering Specialist
+
+**AI Systems Architecture, Workflow Orchestration & Project Continuity / Agentic Engineering & Governed Vibe Coding (AI-Assisted Software Development, Human Oversight)**
+
+## About Me
+
+I design and develop an integrated engineering system for organizing AI-assisted project development throughout the project lifecycle.
+
+My approach combines requirements engineering, task decomposition, AI agent orchestration, context and knowledge management, project state continuity, decision traceability, change management, verification, and human oversight.
+
+The goal is to turn AI-assisted development from a sequence of isolated interactions into a structured, extensible, and verifiable engineering process that can support increasingly complex tasks while preserving project context, architectural consistency, and human control.
+
+## Evolution of My Engineering Approach
+
+My engineering approach has evolved through practical work on multiple projects, using earlier versions of my harness protocol and related engineering mechanisms. I am now consolidating these components into an integrated system for structured, continuous, and human-governed AI-assisted development.
+
+## Engineering Specialization
+
+AI Systems Architecture · Workflow Orchestration · Project State Management · Project Continuity · Requirements Engineering · Context Engineering · Knowledge Management · Requirements Traceability · Decision Traceability · Agentic Engineering · Multi-Agent Systems · AI Governance · AI-Assisted Software Development · Governed Vibe Coding · Human Oversight
+
+## Additional Specialization
+
+Visual Communications · Graphic Design · Branding.
