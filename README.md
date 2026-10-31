@@ -1,8 +1,10 @@
 <p align="center">
-  <a href="#архитектор-ии-систем-и-специалист-по-агентной-инженерии-ai-systems-architecture-agentic-engineering">Русский</a>
+  <a href="#russian-version">🇷🇺 Русский</a>
   &nbsp;|&nbsp;
-  <a href="#ai-systems-architect-agentic-engineering-specialist">English</a>
+  <a href="#english-version">🇬🇧 English</a>
 </p>
+
+<a name="russian-version"></a>
 
 # Архитектор ИИ-систем и специалист по агентной инженерии (AI Systems Architecture & Agentic Engineering)
 
@@ -41,6 +43,9 @@
 Визуальные коммуникации (Visual Communications) · Графический дизайн (Graphic Design) · Брендинг (Branding).
 
 ---
+
+<a name="english-version"></a>
+
 # AI Systems Architect / Agentic Engineering Specialist
 
 **AI Systems Architecture, Workflow Orchestration & Project Continuity / Agentic Engineering & Governed Vibe Coding (AI-Assisted Software Development, Human Oversight)**
