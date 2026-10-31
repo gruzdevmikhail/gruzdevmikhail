@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="#russian-version">🇷🇺 Русский</a>
+  <a href="#russian-version">Русский</a>
   &nbsp;|&nbsp;
-  <a href="#english-version">🇬🇧 English</a>
+  <a href="#english-version">English</a>
 </p>
 
 <a name="russian-version"></a>
