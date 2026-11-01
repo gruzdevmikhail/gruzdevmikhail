@@ -43,7 +43,7 @@
 Визуальные коммуникации (Visual Communications) · Графический дизайн (Graphic Design) · Брендинг (Branding).
 
 ---
-
+<br>
 <a id="en"></a>EN
 
 # AI Systems Architect / Agentic Engineering Specialist
