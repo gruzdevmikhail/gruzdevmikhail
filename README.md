@@ -1,8 +1,9 @@
 <p align="left">
-  <a href="https://github.com/gruzdevmikhail#russian-version">Русский</a>
+  <a href="https://github.com/gruzdevmikhail/gruzdevmikhail/blob/main/README.md#архитектор-ии-систем-и-специалист-по-агентной-инженерии-ai-systems-architecture--agentic-engineering">Русский</a>
   &nbsp;|&nbsp;
-  <a href="https://github.com/gruzdevmikhail#english-version">English</a>
+  <a href="https://github.com/gruzdevmikhail/gruzdevmikhail/blob/main/README.md#ai-systems-architect--agentic-engineering-specialist">English</a>
 </p>
+<br>
 
 # Архитектор ИИ-систем и специалист по агентной инженерии (AI Systems Architecture & Agentic Engineering)
 
