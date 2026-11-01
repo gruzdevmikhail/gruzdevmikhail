@@ -1,9 +1,10 @@
 <p align="left">
-  <a href="https://github.com/gruzdevmikhail#user-content-%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80-%D0%B8%D0%B8-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC-%D0%B8-%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82-%D0%BF%D0%BE-%D0%B0%D0%B3%D0%B5%D0%BD%D1%82%D0%BD%D0%BE%D0%B9-%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D0%B8-ai-systems-architecture--agentic-engineering">Русский</a>
-  &nbsp;⭣&nbsp;
-  <a href="https://github.com/gruzdevmikhail#user-content-ai-systems-architect--agentic-engineering-specialist">English</a>
+  <a href="https://github.com/gruzdevmikhail#user-content-ru">Русский</a>
+  &nbsp;|&nbsp;
+  <a href="https://github.com/gruzdevmikhail#user-content-en">English</a>
 </p>
 <br>
+<a id="ru"></a>RU;
 
 # Архитектор ИИ-систем и специалист по агентной инженерии (AI Systems Architecture & Agentic Engineering)
 
@@ -42,6 +43,8 @@
 Визуальные коммуникации (Visual Communications) · Графический дизайн (Graphic Design) · Брендинг (Branding).
 
 ---
+
+<a id="en"></a>EN
 
 # AI Systems Architect / Agentic Engineering Specialist
 
