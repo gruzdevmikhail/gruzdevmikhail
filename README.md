@@ -1,7 +1,7 @@
 <p align="left">
-  <a href="https://github.com/gruzdevmikhail/gruzdevmikhail/blob/main/README.md#архитектор-ии-систем-и-специалист-по-агентной-инженерии-ai-systems-architecture--agentic-engineering">Русский</a>
+  <a href="#:~:text=Архитектор ИИ-систем">Русский</a>
   &nbsp;|&nbsp;
-  <a href="https://github.com/gruzdevmikhail/gruzdevmikhail/blob/main/README.md#ai-systems-architect--agentic-engineering-specialist">English</a>
+  <a href="#:~:text=AI Systems Architect">English</a>
 </p>
 <br>
 
