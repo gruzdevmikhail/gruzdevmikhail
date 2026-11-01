@@ -4,7 +4,7 @@
   <a href="https://github.com/gruzdevmikhail#user-content-en">English</a>
 </p>
 <br>
-<a id="ru"></a>RU;
+<a id="ru"></a>RU
 
 # Архитектор ИИ-систем и специалист по агентной инженерии (AI Systems Architecture & Agentic Engineering)
 
