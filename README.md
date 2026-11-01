@@ -48,19 +48,21 @@
 
 # AI Systems Architect / Agentic Engineering Specialist
 
-**AI Systems Architecture, Workflow Orchestration & Project Continuity / Agentic Engineering & Governed Vibe Coding (AI-Assisted Software Development, Human Oversight)**
+**AI Systems Architecture, Workflow Orchestration & Project Continuity / Agentic Engineering & Governed Vibe Coding: AI-Assisted Software Development under Human Oversight.**
 
 ## About Me
 
-I design and develop an integrated engineering system for organizing AI-assisted project development throughout the project lifecycle.
+I design and develop an integrated engineering system for organizing AI-assisted project development and project management across the entire project lifecycle.
 
-My approach combines requirements engineering, task decomposition, AI agent orchestration, context and knowledge management, project state continuity, decision traceability, change management, verification, and human oversight.
+My approach combines requirements engineering, task decomposition, AI agent orchestration, context management and knowledge management, project state management and project continuity, decision traceability, change management, verification of results, and human oversight.
 
-The goal is to turn AI-assisted development from a sequence of isolated interactions into a structured, extensible, and verifiable engineering process that can support increasingly complex tasks while preserving project context, architectural consistency, and human control.
+The goal is to transform AI-assisted development from a sequence of isolated requests to AI systems into a structured, extensible, and verifiable engineering process capable of supporting increasingly complex tasks while preserving project context, architectural consistency, and human control.
 
 ## Evolution of My Engineering Approach
 
-My engineering approach has evolved through practical work on multiple projects, using earlier versions of my harness protocol and related engineering mechanisms. I am now consolidating these components into an integrated system for structured, continuous, and human-governed AI-assisted development.
+My engineering approach has evolved through practical work on various projects, using earlier versions of my own protocol for organizing and managing the work of AI agents (Harness Protocol) and related engineering mechanisms.
+
+I am now consolidating and further developing this work into an integrated engineering system for structured, continuous, and human-governed AI-assisted development.
 
 ## Engineering Specialization
 
@@ -74,7 +76,7 @@ Agentic Engineering · Multi-Agent Systems · Multi-Agent Orchestration · AI Go
 
 ### AI-Assisted Software Development
 
-AI-Assisted Software Development · Governed AI-Assisted Development · Governed Vibe Coding · Oversight of architecture, requirements, changes, code quality, testing, and development outcomes.
+AI-Assisted Software Development · Governed AI-Assisted Development · Governed Vibe Coding · Control over architecture, requirements, changes, code quality, testing, and development outcomes.
 
 ## Additional Specialization
 
