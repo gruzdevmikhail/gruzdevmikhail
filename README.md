@@ -64,7 +64,17 @@ My engineering approach has evolved through practical work on multiple projects,
 
 ## Engineering Specialization
 
-AI Systems Architecture · Workflow Orchestration · Project State Management · Project Continuity · Requirements Engineering · Context Engineering · Knowledge Management · Requirements Traceability · Decision Traceability · Agentic Engineering · Multi-Agent Systems · AI Governance · AI-Assisted Software Development · Governed Vibe Coding · Human Oversight
+### AI Systems Architecture and Workflow Orchestration
+
+AI Systems Architecture · Workflow Orchestration · Project State Management · Project Continuity · Requirements Engineering · Context Engineering · Context Management · Knowledge Management · Requirements Traceability · Decision Traceability.
+
+### Agentic Engineering and AI Governance
+
+Agentic Engineering · Multi-Agent Systems · Multi-Agent Orchestration · AI Governance · Human Oversight of AI Agents.
+
+### AI-Assisted Software Development
+
+AI-Assisted Software Development · Governed AI-Assisted Development · Governed Vibe Coding · Oversight of architecture, requirements, changes, code quality, testing, and development outcomes.
 
 ## Additional Specialization
 
