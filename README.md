@@ -52,12 +52,6 @@ My approach combines requirements engineering, task decomposition, AI agent orch
 
 The goal is to transform AI-assisted development from a sequence of isolated requests to AI systems into a structured, extensible, and verifiable engineering process capable of supporting increasingly complex tasks while preserving project context, architectural consistency, and human control.
 
-## Evolution of My Engineering Approach
-
-My engineering approach has evolved through practical work on various projects, using earlier versions of my own protocol for organizing and managing the work of AI agents (Harness Protocol) and related engineering mechanisms.
-
-I am now consolidating and further developing this work into an integrated engineering system for structured, continuous, and human-governed AI-assisted development.
-
 ## Engineering Specialization
 
 ### AI Systems Architecture and Workflow Orchestration
